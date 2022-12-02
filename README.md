@@ -1,5 +1,5 @@
-- Jai Shree Krishna ![image](https://user-images.githubusercontent.com/63219546/205362374-700e5e40-25f6-4a6f-82e9-c771e6af319c.png)
-
+- Jai Shree Krishna 
+https://ibb.co/JmPZXLv
 - 👋 Hi, I’m Ahem Raj
 - 👀 I’m interested in Developing things..
 - 🌱 I’m currently learning Web-Dev
